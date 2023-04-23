@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fca7d81b.css",
-    "main.js": "/static/js/main.bb3acf1a.js",
-    "index.html": "/index.html",
-    "main.fca7d81b.css.map": "/static/css/main.fca7d81b.css.map",
-    "main.bb3acf1a.js.map": "/static/js/main.bb3acf1a.js.map"
+    "main.css": "/birthday-buddy-app/static/css/main.fca7d81b.css",
+    "main.js": "/birthday-buddy-app/static/js/main.bb3acf1a.js",
+    "index.html": "/birthday-buddy-app/index.html",
+    "main.fca7d81b.css.map": "/birthday-buddy-app/static/css/main.fca7d81b.css.map",
+    "main.bb3acf1a.js.map": "/birthday-buddy-app/static/js/main.bb3acf1a.js.map"
   },
   "entrypoints": [
     "static/css/main.fca7d81b.css",
