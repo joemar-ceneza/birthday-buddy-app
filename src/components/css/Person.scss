@@ -1,0 +1,42 @@
+.container {
+  max-width: 500px;
+  width: 100vw;
+  background-color: rgb(231, 221, 221);
+  border-radius: 20px;
+  padding: 2em 3em;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+    rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  h3 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  .person {
+    display: grid;
+    grid-template-columns: auto auto 2fr;
+    column-gap: 1.5rem;
+    align-items: center;
+    margin-bottom: 2rem;
+    img {
+      width: 75px;
+      height: 75px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+    .person-info {
+      text-align: left;
+    }
+  }
+  button {
+    width: 100%;
+    text-transform: capitalize;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 0;
+    background-color: rgb(230, 166, 47);
+    color: white;
+    cursor: pointer;
+    &:hover {
+      background-color: orange;
+    }
+  }
+}
